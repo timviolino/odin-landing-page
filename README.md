@@ -1,2 +1,2 @@
 # OdinLandingPage
-Project for The Odin Project
+Homework assignment for https://www.theodinproject.com
